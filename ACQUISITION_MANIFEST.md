@@ -20,3 +20,16 @@ All disclosures are timestamped and mirrored on NIST/CISA records.
 **Lead Researcher:** Mike Upton 
 **Channel:** Mikeupton91@gmail.com
 **Verification Hash:** 00c80490c117a8ff206739b9f54f75c93366dd881ff9f764d229d98758e78b0c
+
+## APPENDIX: TECHNICAL SCOPE & SEARCH TAGS
+For technical due diligence and automated discovery, this repository addresses the following vectors:
+- **Prompt Injection (Indirect & Recursive)**
+- **RAG Data Poisoning (Exfiltration Vectors)**
+- **Model Weight Hardening (Sovereign Defense)**
+- **Autonomous Red-Teaming (PurpleGuard Apex)**
+- **Gemini 3.0 Safety Architecture Bypass**
+- **LLM Jailbreaking (Genetic Mutation Methodology)**
+- **AI Agent Orchestration Security**
+- **Cybersecurity ROI for Frontier Models**
+- **NIST AI 100-1 / ISO 42001 Compliance**
+- **Adversarial Robustness Testing (ART)**
